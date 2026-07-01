@@ -1,32 +1,39 @@
-
 body {
-  background-color: #000000e7;                   /* Cambia el fondo a negro */
-  color: #ffffff;                                /* Cambia el texto a blanco para que sea legible */
-  font-family: 'Space Grotesk', sans-serif;        /* Cambia el formato del texto*/
+    background-color: #000000e7;
+    /* Cambia el fondo a negro */
+    color: #ffffff;
+    /* Cambia el texto a blanco para que sea legible */
+    font-family: 'Space Grotesk', sans-serif;
+    /* Cambia el formato del texto*/
 }
 
 h1 {
     text-align: center;
-    color: cornflowerblue;                      /* Color del texto*/
-    font-size: 45px;                              /* Tamaño del texto*/
-    letter-spacing: 5px;                          /* Espacio horizontal*/
-    line-height: 0.9;                             /* Espacio vertical*/
+    color: cornflowerblue;
+    /* Color del texto*/
+    font-size: 45px;
+    /* Tamaño del texto*/
+    letter-spacing: 5px;
+    /* Espacio horizontal*/
+    line-height: 0.9;
+    /* Espacio vertical*/
 }
 
 
 h2 {
     text-align: center;
-    color:rgb(84, 125, 201);
+    color: rgb(84, 125, 201);
 }
 
-    p {
-        font-size: 18px;
-    }
+p {
+    font-size: 18px;
+}
+
 p.alineado {
     text-align: center;
     padding-right: 40px;
 }
 
-    .resaltar {
-        font-weight: 500;
-    }
+.resaltar {
+    font-weight: 500;
+}
